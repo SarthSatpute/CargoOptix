@@ -112,7 +112,7 @@ pip install pandas numpy py3dbp
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/cargooptix.git
+git clone https://github.com/SarthSatpute/cargooptix.git
 cd cargooptix
 pip install -r requirements.txt
 ```
