@@ -1,0 +1,2 @@
+scenario_id,placed,total,placement_rate,teu_loaded,utilization,total_weight,kg,gm,is_stable,stability_margin
+10,596,656,90.85,784,86.88,12088.7,7.484,1.216,True,0.916
