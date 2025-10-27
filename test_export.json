@@ -1,0 +1,9002 @@
+{
+  "success": false,
+  "scenario_id": 1,
+  "metrics": {
+    "placement_rate": 91.14,
+    "placed_count": 576,
+    "total_count": 632,
+    "failed_count": 56,
+    "slot_utilization": 83.97,
+    "teu_loaded": 762,
+    "total_weight": 12032.04,
+    "kg": 7.427,
+    "gm": 1.273,
+    "is_stable": true,
+    "stability_margin": 0.973,
+    "cargo_distribution": {
+      "general": 466,
+      "reefer": 41,
+      "hazmat": 69
+    }
+  },
+  "placed_containers": [
+    {
+      "id": "S001C0211",
+      "type": "general",
+      "size": "40ft",
+      "weight": 30.0,
+      "slot": "B07R07T01",
+      "bay": 7,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0447",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 29.92,
+      "slot": "B06R07T01",
+      "bay": 6,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0624",
+      "type": "general",
+      "size": "40ft",
+      "weight": 29.84,
+      "slot": "B05R07T01",
+      "bay": 5,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0036",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 29.49,
+      "slot": "B07R06T01",
+      "bay": 7,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0581",
+      "type": "general",
+      "size": "40ft",
+      "weight": 29.45,
+      "slot": "B07R08T01",
+      "bay": 7,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0325",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 28.87,
+      "slot": "B03R07T01",
+      "bay": 3,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0217",
+      "type": "general",
+      "size": "40ft",
+      "weight": 28.83,
+      "slot": "B04R07T01",
+      "bay": 4,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0097",
+      "type": "general",
+      "size": "40ft",
+      "weight": 28.82,
+      "slot": "B06R06T01",
+      "bay": 6,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0080",
+      "type": "general",
+      "size": "40ft",
+      "weight": 28.79,
+      "slot": "B06R08T01",
+      "bay": 6,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0275",
+      "type": "general",
+      "size": "40ft",
+      "weight": 28.78,
+      "slot": "B05R06T01",
+      "bay": 5,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0363",
+      "type": "general",
+      "size": "40ft",
+      "weight": 28.37,
+      "slot": "B05R08T01",
+      "bay": 5,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0114",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 27.98,
+      "slot": "B02R07T01",
+      "bay": 2,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0484",
+      "type": "general",
+      "size": "40ft",
+      "weight": 27.84,
+      "slot": "B07R05T01",
+      "bay": 7,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0016",
+      "type": "general",
+      "size": "40ft",
+      "weight": 27.8,
+      "slot": "B07R09T01",
+      "bay": 7,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0256",
+      "type": "general",
+      "size": "40ft",
+      "weight": 27.62,
+      "slot": "B07R07T02",
+      "bay": 7,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0405",
+      "type": "general",
+      "size": "40ft",
+      "weight": 27.56,
+      "slot": "B04R06T01",
+      "bay": 4,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0332",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 27.48,
+      "slot": "B04R08T01",
+      "bay": 4,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0174",
+      "type": "general",
+      "size": "40ft",
+      "weight": 27.22,
+      "slot": "B01R07T01",
+      "bay": 1,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0608",
+      "type": "general",
+      "size": "40ft",
+      "weight": 27.02,
+      "slot": "B06R05T01",
+      "bay": 6,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0188",
+      "type": "general",
+      "size": "40ft",
+      "weight": 26.82,
+      "slot": "B06R09T01",
+      "bay": 6,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0320",
+      "type": "general",
+      "size": "40ft",
+      "weight": 26.39,
+      "slot": "B06R07T02",
+      "bay": 6,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0247",
+      "type": "general",
+      "size": "40ft",
+      "weight": 26.13,
+      "slot": "B03R06T01",
+      "bay": 3,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0474",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 25.91,
+      "slot": "B03R08T01",
+      "bay": 3,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0150",
+      "type": "general",
+      "size": "40ft",
+      "weight": 25.49,
+      "slot": "B05R05T01",
+      "bay": 5,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0433",
+      "type": "general",
+      "size": "40ft",
+      "weight": 25.47,
+      "slot": "B05R09T01",
+      "bay": 5,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0193",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 24.28,
+      "slot": "B07R04T01",
+      "bay": 7,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0202",
+      "type": "general",
+      "size": "40ft",
+      "weight": 24.19,
+      "slot": "B05R07T02",
+      "bay": 5,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0316",
+      "type": "general",
+      "size": "40ft",
+      "weight": 24.17,
+      "slot": "B02R06T01",
+      "bay": 2,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0153",
+      "type": "general",
+      "size": "40ft",
+      "weight": 24.0,
+      "slot": "B02R08T01",
+      "bay": 2,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0525",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 23.87,
+      "slot": "B07R10T01",
+      "bay": 7,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0244",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.83,
+      "slot": "B07R06T02",
+      "bay": 7,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0102",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.81,
+      "slot": "B07R08T02",
+      "bay": 7,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0274",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 23.68,
+      "slot": "B04R05T01",
+      "bay": 4,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0075",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.63,
+      "slot": "B04R09T01",
+      "bay": 4,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0419",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.6,
+      "slot": "B04R07T02",
+      "bay": 4,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0042",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.59,
+      "slot": "B01R06T01",
+      "bay": 1,
+      "row": 6,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0582",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 23.53,
+      "slot": "B01R08T01",
+      "bay": 1,
+      "row": 8,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0501",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.49,
+      "slot": "B06R04T01",
+      "bay": 6,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0158",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 23.47,
+      "slot": "B06R10T01",
+      "bay": 6,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0478",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.45,
+      "slot": "B06R06T02",
+      "bay": 6,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0512",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.41,
+      "slot": "B06R08T02",
+      "bay": 6,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0426",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.4,
+      "slot": "B03R05T01",
+      "bay": 3,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0435",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.37,
+      "slot": "B03R09T01",
+      "bay": 3,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0129",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.35,
+      "slot": "B03R07T02",
+      "bay": 3,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0378",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.33,
+      "slot": "B05R04T01",
+      "bay": 5,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0078",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.31,
+      "slot": "B05R10T01",
+      "bay": 5,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0242",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 23.28,
+      "slot": "B05R06T02",
+      "bay": 5,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0289",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.18,
+      "slot": "B05R08T02",
+      "bay": 5,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0094",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.16,
+      "slot": "B02R05T01",
+      "bay": 2,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0059",
+      "type": "general",
+      "size": "20ft",
+      "weight": 23.14,
+      "slot": "B02R09T01",
+      "bay": 2,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0239",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.06,
+      "slot": "B07R03T01",
+      "bay": 7,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0282",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.03,
+      "slot": "B07R11T01",
+      "bay": 7,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0146",
+      "type": "general",
+      "size": "40ft",
+      "weight": 23.01,
+      "slot": "B02R07T02",
+      "bay": 2,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0290",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.96,
+      "slot": "B07R05T02",
+      "bay": 7,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0095",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 22.92,
+      "slot": "B04R04T01",
+      "bay": 4,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0545",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.91,
+      "slot": "B07R09T02",
+      "bay": 7,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0130",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.89,
+      "slot": "B07R07T03",
+      "bay": 7,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0240",
+      "type": "general",
+      "size": "20ft",
+      "weight": 22.82,
+      "slot": "B04R10T01",
+      "bay": 4,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0062",
+      "type": "general",
+      "size": "20ft",
+      "weight": 22.78,
+      "slot": "B04R06T02",
+      "bay": 4,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0251",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.73,
+      "slot": "B04R08T02",
+      "bay": 4,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0339",
+      "type": "general",
+      "size": "20ft",
+      "weight": 22.67,
+      "slot": "B01R05T01",
+      "bay": 1,
+      "row": 5,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0599",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.47,
+      "slot": "B01R09T01",
+      "bay": 1,
+      "row": 9,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0486",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 22.45,
+      "slot": "B06R11T01",
+      "bay": 6,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0571",
+      "type": "general",
+      "size": "20ft",
+      "weight": 22.43,
+      "slot": "B06R03T01",
+      "bay": 6,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0266",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.41,
+      "slot": "B01R07T02",
+      "bay": 1,
+      "row": 7,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0479",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 22.41,
+      "slot": "B06R09T02",
+      "bay": 6,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0454",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 22.4,
+      "slot": "B03R10T01",
+      "bay": 3,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0214",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.26,
+      "slot": "B06R05T02",
+      "bay": 6,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0386",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 22.22,
+      "slot": "B03R04T01",
+      "bay": 3,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0259",
+      "type": "general",
+      "size": "20ft",
+      "weight": 22.16,
+      "slot": "B06R07T03",
+      "bay": 6,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0277",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 22.08,
+      "slot": "B05R03T01",
+      "bay": 5,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0377",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 22.08,
+      "slot": "B05R11T01",
+      "bay": 5,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0401",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.08,
+      "slot": "B03R06T02",
+      "bay": 3,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0631",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.07,
+      "slot": "B03R08T02",
+      "bay": 3,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0519",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 22.04,
+      "slot": "B02R04T01",
+      "bay": 2,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0050",
+      "type": "general",
+      "size": "40ft",
+      "weight": 22.03,
+      "slot": "B05R05T02",
+      "bay": 5,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0227",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 21.99,
+      "slot": "B02R06T02",
+      "bay": 2,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0456",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.96,
+      "slot": "B05R09T02",
+      "bay": 5,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0312",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.9,
+      "slot": "B05R07T03",
+      "bay": 5,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0458",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.89,
+      "slot": "B02R10T01",
+      "bay": 2,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0355",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.88,
+      "slot": "B07R02T01",
+      "bay": 7,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0248",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 21.83,
+      "slot": "B07R06T03",
+      "bay": 7,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0417",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.8,
+      "slot": "B07R12T01",
+      "bay": 7,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0628",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.65,
+      "slot": "B02R08T02",
+      "bay": 2,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0139",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.63,
+      "slot": "B07R04T02",
+      "bay": 7,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0065",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.6,
+      "slot": "B07R10T02",
+      "bay": 7,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0364",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.56,
+      "slot": "B07R08T03",
+      "bay": 7,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0511",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.52,
+      "slot": "B04R03T01",
+      "bay": 4,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0586",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.51,
+      "slot": "B04R11T01",
+      "bay": 4,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0413",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 21.4,
+      "slot": "B04R07T03",
+      "bay": 4,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0006",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.34,
+      "slot": "B04R05T02",
+      "bay": 4,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0310",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.32,
+      "slot": "B04R09T02",
+      "bay": 4,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0176",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.27,
+      "slot": "B01R04T01",
+      "bay": 1,
+      "row": 4,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0030",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.2,
+      "slot": "B01R10T01",
+      "bay": 1,
+      "row": 10,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0481",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.14,
+      "slot": "B06R02T01",
+      "bay": 6,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0381",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.07,
+      "slot": "B06R12T01",
+      "bay": 6,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0550",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 21.06,
+      "slot": "B03R03T01",
+      "bay": 3,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0234",
+      "type": "general",
+      "size": "40ft",
+      "weight": 21.03,
+      "slot": "B01R06T02",
+      "bay": 1,
+      "row": 6,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0540",
+      "type": "general",
+      "size": "20ft",
+      "weight": 21.02,
+      "slot": "B01R08T02",
+      "bay": 1,
+      "row": 8,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0562",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.99,
+      "slot": "B06R04T02",
+      "bay": 6,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0053",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 20.92,
+      "slot": "B05R02T01",
+      "bay": 5,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0044",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 20.87,
+      "slot": "B07R01T01",
+      "bay": 7,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0279",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.86,
+      "slot": "B06R10T02",
+      "bay": 6,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0446",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 20.84,
+      "slot": "B07R13T01",
+      "bay": 7,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0409",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 20.81,
+      "slot": "B02R09T02",
+      "bay": 2,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0357",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.75,
+      "slot": "B06R06T03",
+      "bay": 6,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0071",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 20.71,
+      "slot": "B03R11T01",
+      "bay": 3,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0612",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 20.68,
+      "slot": "B05R12T01",
+      "bay": 5,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0398",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.66,
+      "slot": "B06R08T03",
+      "bay": 6,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0238",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.64,
+      "slot": "B03R05T02",
+      "bay": 3,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0267",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.61,
+      "slot": "B03R09T02",
+      "bay": 3,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0219",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.6,
+      "slot": "B03R07T03",
+      "bay": 3,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0025",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.58,
+      "slot": "B05R04T02",
+      "bay": 5,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0497",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.5,
+      "slot": "B05R10T02",
+      "bay": 5,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0564",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.48,
+      "slot": "B05R06T03",
+      "bay": 5,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0356",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.39,
+      "slot": "B05R08T03",
+      "bay": 5,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0411",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.32,
+      "slot": "B02R03T01",
+      "bay": 2,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0152",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.29,
+      "slot": "B02R11T01",
+      "bay": 2,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0352",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 20.29,
+      "slot": "B04R02T01",
+      "bay": 4,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0510",
+      "type": "general",
+      "size": "20ft",
+      "weight": 20.25,
+      "slot": "B02R05T02",
+      "bay": 2,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0309",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 20.14,
+      "slot": "B04R12T01",
+      "bay": 4,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0002",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 20.11,
+      "slot": "B01R11T01",
+      "bay": 1,
+      "row": 11,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0529",
+      "type": "general",
+      "size": "40ft",
+      "weight": 20.03,
+      "slot": "B07R03T02",
+      "bay": 7,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0228",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.96,
+      "slot": "B07R07T04",
+      "bay": 7,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0412",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 19.94,
+      "slot": "B07R07T05",
+      "bay": 7,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0072",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.93,
+      "slot": "B07R07T06",
+      "bay": 7,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0444",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.93,
+      "slot": "B07R07T07",
+      "bay": 7,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0190",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.74,
+      "slot": "B06R07T04",
+      "bay": 6,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0469",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.73,
+      "slot": "B06R07T05",
+      "bay": 6,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0170",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.69,
+      "slot": "B06R07T06",
+      "bay": 6,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0237",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.66,
+      "slot": "B06R07T07",
+      "bay": 6,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0133",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.63,
+      "slot": "B05R07T04",
+      "bay": 5,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0140",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 19.57,
+      "slot": "B05R07T06",
+      "bay": 5,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0397",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 19.57,
+      "slot": "B01R03T01",
+      "bay": 1,
+      "row": 3,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0092",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.5,
+      "slot": "B05R07T05",
+      "bay": 5,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0452",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.49,
+      "slot": "B05R07T07",
+      "bay": 5,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0117",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 19.47,
+      "slot": "B06R01T01",
+      "bay": 6,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0160",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.43,
+      "slot": "B07R06T04",
+      "bay": 7,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0236",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.39,
+      "slot": "B07R08T04",
+      "bay": 7,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0471",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.38,
+      "slot": "B07R06T05",
+      "bay": 7,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0591",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.37,
+      "slot": "B07R08T05",
+      "bay": 7,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0148",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.34,
+      "slot": "B07R06T06",
+      "bay": 7,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0172",
+      "type": "general",
+      "size": "20ft",
+      "weight": 19.34,
+      "slot": "B07R08T06",
+      "bay": 7,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0403",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.34,
+      "slot": "B07R06T07",
+      "bay": 7,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0432",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 19.33,
+      "slot": "B06R13T01",
+      "bay": 6,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0436",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.26,
+      "slot": "B07R08T07",
+      "bay": 7,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0168",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.23,
+      "slot": "B04R07T04",
+      "bay": 4,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0396",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 19.14,
+      "slot": "B06R08T04",
+      "bay": 6,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0569",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 19.14,
+      "slot": "B06R06T07",
+      "bay": 6,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0257",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 19.12,
+      "slot": "B03R07T05",
+      "bay": 3,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0387",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.04,
+      "slot": "B04R07T05",
+      "bay": 4,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0241",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 19.02,
+      "slot": "B07R05T06",
+      "bay": 7,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0115",
+      "type": "general",
+      "size": "40ft",
+      "weight": 19.0,
+      "slot": "B04R07T06",
+      "bay": 4,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0345",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.99,
+      "slot": "B04R07T07",
+      "bay": 4,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0594",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.97,
+      "slot": "B06R06T04",
+      "bay": 6,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0104",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.96,
+      "slot": "B06R06T05",
+      "bay": 6,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0284",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.96,
+      "slot": "B06R08T05",
+      "bay": 6,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0587",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.86,
+      "slot": "B06R06T06",
+      "bay": 6,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0362",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.83,
+      "slot": "B06R08T06",
+      "bay": 6,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0171",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.78,
+      "slot": "B06R08T07",
+      "bay": 6,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0068",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 18.76,
+      "slot": "B03R02T01",
+      "bay": 3,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0509",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 18.76,
+      "slot": "B07R09T06",
+      "bay": 7,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0415",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.74,
+      "slot": "B03R07T04",
+      "bay": 3,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0439",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.72,
+      "slot": "B03R07T06",
+      "bay": 3,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0338",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.61,
+      "slot": "B03R07T07",
+      "bay": 3,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0180",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.56,
+      "slot": "B05R06T04",
+      "bay": 5,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0438",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 18.48,
+      "slot": "B03R12T01",
+      "bay": 3,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0615",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 18.4,
+      "slot": "B05R01T01",
+      "bay": 5,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0368",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 18.23,
+      "slot": "B02R07T07",
+      "bay": 2,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0619",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 18.22,
+      "slot": "B05R13T01",
+      "bay": 5,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0105",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 18.17,
+      "slot": "B04R08T07",
+      "bay": 4,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0229",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 18.14,
+      "slot": "B02R02T01",
+      "bay": 2,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0568",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.13,
+      "slot": "B05R08T04",
+      "bay": 5,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0602",
+      "type": "general",
+      "size": "40ft",
+      "weight": 18.11,
+      "slot": "B05R06T05",
+      "bay": 5,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0482",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.03,
+      "slot": "B05R08T05",
+      "bay": 5,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0157",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.01,
+      "slot": "B05R06T06",
+      "bay": 5,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0184",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 18.01,
+      "slot": "B02R12T01",
+      "bay": 2,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0305",
+      "type": "general",
+      "size": "20ft",
+      "weight": 18.01,
+      "slot": "B05R08T06",
+      "bay": 5,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0517",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.94,
+      "slot": "B05R06T07",
+      "bay": 5,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0110",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.89,
+      "slot": "B05R08T07",
+      "bay": 5,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0023",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.87,
+      "slot": "B02R07T03",
+      "bay": 2,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0024",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.85,
+      "slot": "B07R05T03",
+      "bay": 7,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0604",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.85,
+      "slot": "B07R09T03",
+      "bay": 7,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0534",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.81,
+      "slot": "B02R07T04",
+      "bay": 2,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0376",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.8,
+      "slot": "B07R05T04",
+      "bay": 7,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0449",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.72,
+      "slot": "B07R09T04",
+      "bay": 7,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0161",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.69,
+      "slot": "B02R07T05",
+      "bay": 2,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0507",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 17.66,
+      "slot": "B01R07T03",
+      "bay": 1,
+      "row": 7,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0213",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.63,
+      "slot": "B07R05T05",
+      "bay": 7,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0273",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 17.61,
+      "slot": "B07R14T01",
+      "bay": 7,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 81.25,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0304",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.57,
+      "slot": "B07R09T05",
+      "bay": 7,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0252",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.53,
+      "slot": "B02R07T06",
+      "bay": 2,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0592",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.49,
+      "slot": "B07R05T07",
+      "bay": 7,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0272",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 17.36,
+      "slot": "B04R01T01",
+      "bay": 4,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0526",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.35,
+      "slot": "B07R09T07",
+      "bay": 7,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0384",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 17.31,
+      "slot": "B04R13T01",
+      "bay": 4,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0459",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.25,
+      "slot": "B04R06T03",
+      "bay": 4,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0052",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 17.21,
+      "slot": "B01R02T01",
+      "bay": 1,
+      "row": 2,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -61.34,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0126",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.16,
+      "slot": "B04R08T03",
+      "bay": 4,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0057",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.15,
+      "slot": "B04R06T04",
+      "bay": 4,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0538",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.15,
+      "slot": "B04R08T04",
+      "bay": 4,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0232",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.14,
+      "slot": "B04R06T05",
+      "bay": 4,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0141",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 17.13,
+      "slot": "B06R05T04",
+      "bay": 6,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0067",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.12,
+      "slot": "B04R08T05",
+      "bay": 4,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0084",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.12,
+      "slot": "B04R06T06",
+      "bay": 4,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0255",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.11,
+      "slot": "B04R08T06",
+      "bay": 4,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0485",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.08,
+      "slot": "B04R06T07",
+      "bay": 4,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0620",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.08,
+      "slot": "B06R05T03",
+      "bay": 6,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0019",
+      "type": "general",
+      "size": "20ft",
+      "weight": 17.04,
+      "slot": "B06R09T03",
+      "bay": 6,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0131",
+      "type": "general",
+      "size": "40ft",
+      "weight": 17.02,
+      "slot": "B01R07T04",
+      "bay": 1,
+      "row": 7,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0530",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 17.0,
+      "slot": "B01R12T01",
+      "bay": 1,
+      "row": 12,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -36.94,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0064",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.99,
+      "slot": "B06R09T04",
+      "bay": 6,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0383",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.98,
+      "slot": "B01R07T05",
+      "bay": 1,
+      "row": 7,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0086",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.93,
+      "slot": "B06R05T05",
+      "bay": 6,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0206",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.89,
+      "slot": "B06R09T05",
+      "bay": 6,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0455",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.89,
+      "slot": "B01R07T06",
+      "bay": 1,
+      "row": 7,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0429",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.88,
+      "slot": "B06R05T06",
+      "bay": 6,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0283",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.87,
+      "slot": "B06R09T06",
+      "bay": 6,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0295",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.8,
+      "slot": "B01R07T07",
+      "bay": 1,
+      "row": 7,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -49.14,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0490",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 16.78,
+      "slot": "B06R14T01",
+      "bay": 6,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 68.75,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0040",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.76,
+      "slot": "B06R05T07",
+      "bay": 6,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0109",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.75,
+      "slot": "B06R09T07",
+      "bay": 6,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0020",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.74,
+      "slot": "B03R06T03",
+      "bay": 3,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0162",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.72,
+      "slot": "B03R08T03",
+      "bay": 3,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0054",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 16.7,
+      "slot": "B03R01T01",
+      "bay": 3,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0500",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 16.67,
+      "slot": "B05R09T05",
+      "bay": 5,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0537",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 16.63,
+      "slot": "B03R13T01",
+      "bay": 3,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0296",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.61,
+      "slot": "B03R06T04",
+      "bay": 3,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0391",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 16.52,
+      "slot": "B07R10T03",
+      "bay": 7,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0596",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.5,
+      "slot": "B03R08T04",
+      "bay": 3,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0578",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 16.48,
+      "slot": "B02R08T04",
+      "bay": 2,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0468",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 16.44,
+      "slot": "B05R14T01",
+      "bay": 5,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 56.25,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0147",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.42,
+      "slot": "B03R06T05",
+      "bay": 3,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0246",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 16.39,
+      "slot": "B04R05T05",
+      "bay": 4,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0349",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.38,
+      "slot": "B03R08T05",
+      "bay": 3,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0527",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.35,
+      "slot": "B03R06T06",
+      "bay": 3,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0388",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.32,
+      "slot": "B03R08T06",
+      "bay": 3,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0329",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.31,
+      "slot": "B03R06T07",
+      "bay": 3,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0317",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.26,
+      "slot": "B03R08T07",
+      "bay": 3,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0192",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 16.18,
+      "slot": "B02R01T01",
+      "bay": 2,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0222",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.16,
+      "slot": "B05R05T03",
+      "bay": 5,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0483",
+      "type": "general",
+      "size": "40ft",
+      "weight": 16.15,
+      "slot": "B05R09T03",
+      "bay": 5,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0063",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 16.14,
+      "slot": "B02R13T01",
+      "bay": 2,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0428",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 16.12,
+      "slot": "B04R14T01",
+      "bay": 4,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 43.75,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0286",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.11,
+      "slot": "B05R05T04",
+      "bay": 5,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0049",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.09,
+      "slot": "B05R09T04",
+      "bay": 5,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0503",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.07,
+      "slot": "B05R05T05",
+      "bay": 5,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0431",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.04,
+      "slot": "B05R05T06",
+      "bay": 5,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0134",
+      "type": "general",
+      "size": "20ft",
+      "weight": 16.01,
+      "slot": "B05R09T06",
+      "bay": 5,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0498",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.97,
+      "slot": "B05R05T07",
+      "bay": 5,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0326",
+      "type": "general",
+      "size": "40ft",
+      "weight": 15.96,
+      "slot": "B05R09T07",
+      "bay": 5,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0552",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 15.93,
+      "slot": "B01R01T01",
+      "bay": 1,
+      "row": 1,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -63.78,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0574",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.93,
+      "slot": "B02R06T03",
+      "bay": 2,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0595",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 15.93,
+      "slot": "B01R13T01",
+      "bay": 1,
+      "row": 13,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -34.5,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0622",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.92,
+      "slot": "B02R08T03",
+      "bay": 2,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0187",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 15.88,
+      "slot": "B03R14T01",
+      "bay": 3,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 31.25,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0543",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.84,
+      "slot": "B07R04T03",
+      "bay": 7,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0200",
+      "type": "reefer",
+      "size": "20ft",
+      "weight": 15.81,
+      "slot": "B02R14T01",
+      "bay": 2,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 18.75,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0265",
+      "type": "reefer",
+      "size": "40ft",
+      "weight": 15.81,
+      "slot": "B01R14T01",
+      "bay": 1,
+      "row": 14,
+      "tier": 1,
+      "position": {
+        "x": 6.25,
+        "y": -32.06,
+        "z": 1.29
+      }
+    },
+    {
+      "id": "S001C0613",
+      "type": "general",
+      "size": "40ft",
+      "weight": 15.8,
+      "slot": "B02R06T04",
+      "bay": 2,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0480",
+      "type": "general",
+      "size": "40ft",
+      "weight": 15.72,
+      "slot": "B07R04T04",
+      "bay": 7,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0043",
+      "type": "general",
+      "size": "40ft",
+      "weight": 15.71,
+      "slot": "B07R10T04",
+      "bay": 7,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0069",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.7,
+      "slot": "B02R06T05",
+      "bay": 2,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0558",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.68,
+      "slot": "B02R08T05",
+      "bay": 2,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0342",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.64,
+      "slot": "B07R04T05",
+      "bay": 7,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0373",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.55,
+      "slot": "B07R10T05",
+      "bay": 7,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0536",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 15.49,
+      "slot": "B01R06T05",
+      "bay": 1,
+      "row": 6,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0371",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.48,
+      "slot": "B02R06T06",
+      "bay": 2,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0623",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.46,
+      "slot": "B02R08T06",
+      "bay": 2,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0461",
+      "type": "general",
+      "size": "40ft",
+      "weight": 15.33,
+      "slot": "B07R04T06",
+      "bay": 7,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0203",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.3,
+      "slot": "B07R10T06",
+      "bay": 7,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0513",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 15.28,
+      "slot": "B01R08T06",
+      "bay": 1,
+      "row": 8,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0268",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.27,
+      "slot": "B02R06T07",
+      "bay": 2,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0347",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.25,
+      "slot": "B02R08T07",
+      "bay": 2,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0546",
+      "type": "general",
+      "size": "40ft",
+      "weight": 15.08,
+      "slot": "B07R04T07",
+      "bay": 7,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0318",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.99,
+      "slot": "B07R10T07",
+      "bay": 7,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0466",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.81,
+      "slot": "B04R05T03",
+      "bay": 4,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0076",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.8,
+      "slot": "B04R09T03",
+      "bay": 4,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0004",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.79,
+      "slot": "B04R05T04",
+      "bay": 4,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0515",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.78,
+      "slot": "B04R09T04",
+      "bay": 4,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0414",
+      "type": "general",
+      "size": "40ft",
+      "weight": 14.74,
+      "slot": "B04R09T05",
+      "bay": 4,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0088",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.71,
+      "slot": "B04R05T06",
+      "bay": 4,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0489",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 14.7,
+      "slot": "B06R10T07",
+      "bay": 6,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0549",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.69,
+      "slot": "B04R09T06",
+      "bay": 4,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0142",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.67,
+      "slot": "B04R05T07",
+      "bay": 4,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0561",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.63,
+      "slot": "B04R09T07",
+      "bay": 4,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0058",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.62,
+      "slot": "B01R06T03",
+      "bay": 1,
+      "row": 6,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0630",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.62,
+      "slot": "B01R08T03",
+      "bay": 1,
+      "row": 8,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0179",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 14.55,
+      "slot": "B03R05T03",
+      "bay": 3,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0111",
+      "type": "general",
+      "size": "40ft",
+      "weight": 14.53,
+      "slot": "B06R04T03",
+      "bay": 6,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0301",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.51,
+      "slot": "B06R10T03",
+      "bay": 6,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0475",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.42,
+      "slot": "B01R06T04",
+      "bay": 1,
+      "row": 6,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0495",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.42,
+      "slot": "B01R08T04",
+      "bay": 1,
+      "row": 8,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0107",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.39,
+      "slot": "B06R04T04",
+      "bay": 6,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0294",
+      "type": "general",
+      "size": "40ft",
+      "weight": 14.39,
+      "slot": "B06R10T04",
+      "bay": 6,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0553",
+      "type": "general",
+      "size": "40ft",
+      "weight": 14.38,
+      "slot": "B01R08T05",
+      "bay": 1,
+      "row": 8,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0033",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.36,
+      "slot": "B06R04T05",
+      "bay": 6,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0365",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 14.31,
+      "slot": "B03R09T06",
+      "bay": 3,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0442",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 14.29,
+      "slot": "B03R05T07",
+      "bay": 3,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0427",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.28,
+      "slot": "B06R10T05",
+      "bay": 6,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0598",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.28,
+      "slot": "B01R06T06",
+      "bay": 1,
+      "row": 6,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0208",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.25,
+      "slot": "B06R04T06",
+      "bay": 6,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0167",
+      "type": "general",
+      "size": "40ft",
+      "weight": 14.22,
+      "slot": "B06R10T06",
+      "bay": 6,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0605",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.21,
+      "slot": "B01R06T07",
+      "bay": 1,
+      "row": 6,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -51.58,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0607",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.21,
+      "slot": "B01R08T07",
+      "bay": 1,
+      "row": 8,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -46.7,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0472",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 14.17,
+      "slot": "B05R04T03",
+      "bay": 5,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0151",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 14.06,
+      "slot": "B05R04T06",
+      "bay": 5,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0358",
+      "type": "general",
+      "size": "20ft",
+      "weight": 14.05,
+      "slot": "B06R04T07",
+      "bay": 6,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0243",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 13.96,
+      "slot": "B07R03T03",
+      "bay": 7,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0443",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.95,
+      "slot": "B03R09T03",
+      "bay": 3,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0278",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.94,
+      "slot": "B03R05T04",
+      "bay": 3,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0032",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.93,
+      "slot": "B03R09T04",
+      "bay": 3,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0307",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.85,
+      "slot": "B03R05T05",
+      "bay": 3,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0354",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.82,
+      "slot": "B03R09T05",
+      "bay": 3,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0212",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.8,
+      "slot": "B03R05T06",
+      "bay": 3,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0551",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.79,
+      "slot": "B03R09T07",
+      "bay": 3,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0306",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 13.71,
+      "slot": "B07R11T05",
+      "bay": 7,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0261",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.69,
+      "slot": "B05R10T03",
+      "bay": 5,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0334",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.69,
+      "slot": "B05R04T04",
+      "bay": 5,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0194",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.63,
+      "slot": "B05R10T04",
+      "bay": 5,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0017",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.58,
+      "slot": "B05R04T05",
+      "bay": 5,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0434",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.55,
+      "slot": "B05R10T05",
+      "bay": 5,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0191",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.51,
+      "slot": "B05R10T06",
+      "bay": 5,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0103",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.5,
+      "slot": "B05R04T07",
+      "bay": 5,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0610",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.41,
+      "slot": "B05R10T07",
+      "bay": 5,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0124",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.37,
+      "slot": "B07R11T02",
+      "bay": 7,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0230",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.37,
+      "slot": "B02R05T03",
+      "bay": 2,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0264",
+      "type": "general",
+      "size": "40ft",
+      "weight": 13.34,
+      "slot": "B02R09T03",
+      "bay": 2,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0621",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.32,
+      "slot": "B07R11T03",
+      "bay": 7,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0611",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.29,
+      "slot": "B02R05T04",
+      "bay": 2,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0499",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 13.25,
+      "slot": "B07R03T07",
+      "bay": 7,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0369",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.21,
+      "slot": "B02R09T04",
+      "bay": 2,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0302",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.2,
+      "slot": "B07R03T04",
+      "bay": 7,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0597",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.17,
+      "slot": "B07R11T04",
+      "bay": 7,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0359",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 13.12,
+      "slot": "B04R10T03",
+      "bay": 4,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0321",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.11,
+      "slot": "B02R05T05",
+      "bay": 2,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0566",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.08,
+      "slot": "B02R09T05",
+      "bay": 2,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0106",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.07,
+      "slot": "B07R03T05",
+      "bay": 7,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0235",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.06,
+      "slot": "B02R05T06",
+      "bay": 2,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0260",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.06,
+      "slot": "B02R09T06",
+      "bay": 2,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0416",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.06,
+      "slot": "B07R03T06",
+      "bay": 7,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0457",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.06,
+      "slot": "B07R11T06",
+      "bay": 7,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0164",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.03,
+      "slot": "B02R05T07",
+      "bay": 2,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0173",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.02,
+      "slot": "B02R09T07",
+      "bay": 2,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0370",
+      "type": "general",
+      "size": "20ft",
+      "weight": 13.01,
+      "slot": "B07R11T07",
+      "bay": 7,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0022",
+      "type": "general",
+      "size": "40ft",
+      "weight": 12.99,
+      "slot": "B04R04T02",
+      "bay": 4,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0367",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 12.92,
+      "slot": "B06R03T05",
+      "bay": 6,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0031",
+      "type": "general",
+      "size": "40ft",
+      "weight": 12.88,
+      "slot": "B04R10T02",
+      "bay": 4,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0034",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 12.86,
+      "slot": "B05R11T04",
+      "bay": 5,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0218",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.82,
+      "slot": "B04R04T03",
+      "bay": 4,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0073",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.81,
+      "slot": "B04R04T04",
+      "bay": 4,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0473",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.8,
+      "slot": "B04R10T04",
+      "bay": 4,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0011",
+      "type": "general",
+      "size": "40ft",
+      "weight": 12.78,
+      "slot": "B04R04T05",
+      "bay": 4,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0269",
+      "type": "general",
+      "size": "40ft",
+      "weight": 12.77,
+      "slot": "B04R10T05",
+      "bay": 4,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0178",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.75,
+      "slot": "B04R04T06",
+      "bay": 4,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0470",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 12.72,
+      "slot": "B02R04T04",
+      "bay": 2,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0585",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.71,
+      "slot": "B04R10T06",
+      "bay": 4,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0410",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.63,
+      "slot": "B04R04T07",
+      "bay": 4,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0577",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.61,
+      "slot": "B04R10T07",
+      "bay": 4,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0048",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.53,
+      "slot": "B01R05T02",
+      "bay": 1,
+      "row": 5,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0580",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.5,
+      "slot": "B01R09T02",
+      "bay": 1,
+      "row": 9,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0143",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.48,
+      "slot": "B06R03T02",
+      "bay": 6,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0245",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.42,
+      "slot": "B06R11T02",
+      "bay": 6,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0156",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.35,
+      "slot": "B01R05T03",
+      "bay": 1,
+      "row": 5,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0462",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.3,
+      "slot": "B01R09T03",
+      "bay": 1,
+      "row": 9,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0249",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 12.18,
+      "slot": "B02R10T05",
+      "bay": 2,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0225",
+      "type": "general",
+      "size": "40ft",
+      "weight": 12.16,
+      "slot": "B06R03T03",
+      "bay": 6,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0313",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.13,
+      "slot": "B06R11T03",
+      "bay": 6,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0303",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.07,
+      "slot": "B01R05T04",
+      "bay": 1,
+      "row": 5,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0547",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.05,
+      "slot": "B01R09T04",
+      "bay": 1,
+      "row": 9,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0330",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.02,
+      "slot": "B06R03T04",
+      "bay": 6,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0335",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.02,
+      "slot": "B06R11T04",
+      "bay": 6,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0060",
+      "type": "general",
+      "size": "20ft",
+      "weight": 12.01,
+      "slot": "B01R05T05",
+      "bay": 1,
+      "row": 5,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0041",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.97,
+      "slot": "B01R09T05",
+      "bay": 1,
+      "row": 9,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0195",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.93,
+      "slot": "B06R11T05",
+      "bay": 6,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0262",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 11.89,
+      "slot": "B07R12T07",
+      "bay": 7,
+      "row": 12,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0492",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.89,
+      "slot": "B01R05T06",
+      "bay": 1,
+      "row": 5,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0287",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.66,
+      "slot": "B01R09T06",
+      "bay": 1,
+      "row": 9,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0464",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.65,
+      "slot": "B06R03T06",
+      "bay": 6,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0392",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.6,
+      "slot": "B06R11T06",
+      "bay": 6,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0189",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.58,
+      "slot": "B01R05T07",
+      "bay": 1,
+      "row": 5,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -54.02,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0118",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.54,
+      "slot": "B01R09T07",
+      "bay": 1,
+      "row": 9,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -44.26,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0494",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.54,
+      "slot": "B06R03T07",
+      "bay": 6,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0385",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.53,
+      "slot": "B06R11T07",
+      "bay": 6,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0554",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.5,
+      "slot": "B03R04T02",
+      "bay": 3,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0145",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.49,
+      "slot": "B03R10T02",
+      "bay": 3,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0186",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.31,
+      "slot": "B03R04T03",
+      "bay": 3,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0450",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.27,
+      "slot": "B03R10T03",
+      "bay": 3,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0209",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.21,
+      "slot": "B03R04T04",
+      "bay": 3,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0351",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.21,
+      "slot": "B03R10T04",
+      "bay": 3,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0037",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.19,
+      "slot": "B03R04T05",
+      "bay": 3,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0098",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.16,
+      "slot": "B03R10T05",
+      "bay": 3,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0348",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.15,
+      "slot": "B03R04T06",
+      "bay": 3,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0311",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.09,
+      "slot": "B03R10T06",
+      "bay": 3,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0123",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.07,
+      "slot": "B03R04T07",
+      "bay": 3,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0137",
+      "type": "general",
+      "size": "40ft",
+      "weight": 11.07,
+      "slot": "B03R10T07",
+      "bay": 3,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0177",
+      "type": "general",
+      "size": "20ft",
+      "weight": 11.04,
+      "slot": "B05R03T02",
+      "bay": 5,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0453",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.99,
+      "slot": "B05R11T02",
+      "bay": 5,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0539",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.99,
+      "slot": "B05R03T03",
+      "bay": 5,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0618",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.93,
+      "slot": "B05R11T03",
+      "bay": 5,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0344",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.92,
+      "slot": "B05R03T04",
+      "bay": 5,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0496",
+      "type": "general",
+      "size": "40ft",
+      "weight": 10.89,
+      "slot": "B05R03T05",
+      "bay": 5,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0205",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.87,
+      "slot": "B05R11T05",
+      "bay": 5,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0308",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.83,
+      "slot": "B05R03T06",
+      "bay": 5,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0028",
+      "type": "general",
+      "size": "40ft",
+      "weight": 10.8,
+      "slot": "B05R11T06",
+      "bay": 5,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0138",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.8,
+      "slot": "B05R03T07",
+      "bay": 5,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0197",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.78,
+      "slot": "B05R11T07",
+      "bay": 5,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0066",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.76,
+      "slot": "B02R04T02",
+      "bay": 2,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0523",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 10.72,
+      "slot": "B04R03T02",
+      "bay": 4,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0493",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.66,
+      "slot": "B02R10T02",
+      "bay": 2,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0091",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.63,
+      "slot": "B07R02T02",
+      "bay": 7,
+      "row": 2,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0360",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.6,
+      "slot": "B07R12T02",
+      "bay": 7,
+      "row": 12,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0423",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.59,
+      "slot": "B02R04T03",
+      "bay": 2,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0270",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.57,
+      "slot": "B02R10T03",
+      "bay": 2,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0627",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.56,
+      "slot": "B07R02T03",
+      "bay": 7,
+      "row": 2,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0350",
+      "type": "general",
+      "size": "40ft",
+      "weight": 10.41,
+      "slot": "B07R12T03",
+      "bay": 7,
+      "row": 12,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0046",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.36,
+      "slot": "B02R10T04",
+      "bay": 2,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0159",
+      "type": "general",
+      "size": "40ft",
+      "weight": 10.25,
+      "slot": "B07R02T04",
+      "bay": 7,
+      "row": 2,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0226",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.25,
+      "slot": "B07R12T04",
+      "bay": 7,
+      "row": 12,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0018",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.24,
+      "slot": "B02R04T05",
+      "bay": 2,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0533",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 10.23,
+      "slot": "B04R11T06",
+      "bay": 4,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0491",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.22,
+      "slot": "B07R02T05",
+      "bay": 7,
+      "row": 2,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0544",
+      "type": "general",
+      "size": "40ft",
+      "weight": 10.2,
+      "slot": "B07R12T05",
+      "bay": 7,
+      "row": 12,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0276",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.1,
+      "slot": "B02R04T06",
+      "bay": 2,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0565",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.08,
+      "slot": "B02R10T06",
+      "bay": 2,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0165",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.06,
+      "slot": "B07R02T06",
+      "bay": 7,
+      "row": 2,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0223",
+      "type": "general",
+      "size": "40ft",
+      "weight": 10.05,
+      "slot": "B07R12T06",
+      "bay": 7,
+      "row": 12,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -36.94,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0007",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.04,
+      "slot": "B02R04T07",
+      "bay": 2,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0120",
+      "type": "general",
+      "size": "20ft",
+      "weight": 10.01,
+      "slot": "B02R10T07",
+      "bay": 2,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0096",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.85,
+      "slot": "B07R02T07",
+      "bay": 7,
+      "row": 2,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -61.34,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0601",
+      "type": "general",
+      "size": "40ft",
+      "weight": 9.84,
+      "slot": "B04R11T02",
+      "bay": 4,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0626",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.84,
+      "slot": "B04R03T03",
+      "bay": 4,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0010",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.83,
+      "slot": "B04R11T03",
+      "bay": 4,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0258",
+      "type": "general",
+      "size": "40ft",
+      "weight": 9.79,
+      "slot": "B04R03T04",
+      "bay": 4,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0021",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.78,
+      "slot": "B04R11T04",
+      "bay": 4,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0085",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.75,
+      "slot": "B04R03T05",
+      "bay": 4,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0393",
+      "type": "general",
+      "size": "40ft",
+      "weight": 9.75,
+      "slot": "B04R11T05",
+      "bay": 4,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0593",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.75,
+      "slot": "B04R03T06",
+      "bay": 4,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0625",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.71,
+      "slot": "B04R03T07",
+      "bay": 4,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0366",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.69,
+      "slot": "B04R11T07",
+      "bay": 4,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0135",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 9.66,
+      "slot": "B01R10T03",
+      "bay": 1,
+      "row": 10,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0070",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 9.64,
+      "slot": "B06R12T03",
+      "bay": 6,
+      "row": 12,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0082",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.64,
+      "slot": "B01R04T02",
+      "bay": 1,
+      "row": 4,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0324",
+      "type": "general",
+      "size": "40ft",
+      "weight": 9.56,
+      "slot": "B01R10T02",
+      "bay": 1,
+      "row": 10,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0001",
+      "type": "general",
+      "size": "40ft",
+      "weight": 9.54,
+      "slot": "B06R02T02",
+      "bay": 6,
+      "row": 2,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0361",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.49,
+      "slot": "B06R12T02",
+      "bay": 6,
+      "row": 12,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0576",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 9.48,
+      "slot": "B01R04T06",
+      "bay": 1,
+      "row": 4,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0408",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.32,
+      "slot": "B01R04T03",
+      "bay": 1,
+      "row": 4,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0079",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.3,
+      "slot": "B06R02T03",
+      "bay": 6,
+      "row": 2,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0402",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 9.28,
+      "slot": "B01R10T07",
+      "bay": 1,
+      "row": 10,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0099",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.2,
+      "slot": "B01R04T04",
+      "bay": 1,
+      "row": 4,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0300",
+      "type": "general",
+      "size": "40ft",
+      "weight": 9.14,
+      "slot": "B01R10T04",
+      "bay": 1,
+      "row": 10,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0100",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.07,
+      "slot": "B06R02T04",
+      "bay": 6,
+      "row": 2,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0606",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.07,
+      "slot": "B06R12T04",
+      "bay": 6,
+      "row": 12,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0299",
+      "type": "general",
+      "size": "20ft",
+      "weight": 9.04,
+      "slot": "B01R04T05",
+      "bay": 1,
+      "row": 4,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0424",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.99,
+      "slot": "B01R10T05",
+      "bay": 1,
+      "row": 10,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0035",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 8.88,
+      "slot": "B03R03T05",
+      "bay": 3,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0395",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.88,
+      "slot": "B06R02T05",
+      "bay": 6,
+      "row": 2,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0440",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.85,
+      "slot": "B06R12T05",
+      "bay": 6,
+      "row": 12,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0584",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.83,
+      "slot": "B01R10T06",
+      "bay": 1,
+      "row": 10,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -41.82,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0548",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.79,
+      "slot": "B06R02T06",
+      "bay": 6,
+      "row": 2,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0113",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 8.77,
+      "slot": "B05R02T04",
+      "bay": 5,
+      "row": 2,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0343",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.75,
+      "slot": "B06R12T06",
+      "bay": 6,
+      "row": 12,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0319",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.73,
+      "slot": "B01R04T07",
+      "bay": 1,
+      "row": 4,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -56.46,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0314",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 8.68,
+      "slot": "B05R02T07",
+      "bay": 5,
+      "row": 2,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0589",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.65,
+      "slot": "B06R02T07",
+      "bay": 6,
+      "row": 2,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -61.34,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0542",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.64,
+      "slot": "B06R12T07",
+      "bay": 6,
+      "row": 12,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -36.94,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0175",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.62,
+      "slot": "B03R03T02",
+      "bay": 3,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0521",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.62,
+      "slot": "B03R11T02",
+      "bay": 3,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0327",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.52,
+      "slot": "B03R03T03",
+      "bay": 3,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0210",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.48,
+      "slot": "B03R11T03",
+      "bay": 3,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0216",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.46,
+      "slot": "B03R03T04",
+      "bay": 3,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0506",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.44,
+      "slot": "B03R11T04",
+      "bay": 3,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0125",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.43,
+      "slot": "B03R11T05",
+      "bay": 3,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0207",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.43,
+      "slot": "B03R03T06",
+      "bay": 3,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0372",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.37,
+      "slot": "B03R11T06",
+      "bay": 3,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0516",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.36,
+      "slot": "B03R03T07",
+      "bay": 3,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0590",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.34,
+      "slot": "B03R11T07",
+      "bay": 3,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0560",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.33,
+      "slot": "B05R02T02",
+      "bay": 5,
+      "row": 2,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0155",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 8.32,
+      "slot": "B07R01T04",
+      "bay": 7,
+      "row": 1,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0522",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.32,
+      "slot": "B05R12T02",
+      "bay": 5,
+      "row": 12,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0012",
+      "type": "hazmat",
+      "size": "40ft",
+      "weight": 8.31,
+      "slot": "B07R13T04",
+      "bay": 7,
+      "row": 13,
+      "tier": 4,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0144",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.31,
+      "slot": "B05R02T03",
+      "bay": 5,
+      "row": 2,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0051",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 8.25,
+      "slot": "B02R03T07",
+      "bay": 2,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0322",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.24,
+      "slot": "B05R12T03",
+      "bay": 5,
+      "row": 12,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0375",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.24,
+      "slot": "B05R12T04",
+      "bay": 5,
+      "row": 12,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0437",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.17,
+      "slot": "B05R02T05",
+      "bay": 5,
+      "row": 2,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0502",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.16,
+      "slot": "B05R12T05",
+      "bay": 5,
+      "row": 12,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0467",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.15,
+      "slot": "B05R02T06",
+      "bay": 5,
+      "row": 2,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -61.34,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0407",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.13,
+      "slot": "B05R12T06",
+      "bay": 5,
+      "row": 12,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0009",
+      "type": "general",
+      "size": "40ft",
+      "weight": 8.1,
+      "slot": "B05R12T07",
+      "bay": 5,
+      "row": 12,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -36.94,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0224",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.08,
+      "slot": "B02R03T02",
+      "bay": 2,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0465",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 8.05,
+      "slot": "B04R12T02",
+      "bay": 4,
+      "row": 12,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0333",
+      "type": "general",
+      "size": "20ft",
+      "weight": 8.01,
+      "slot": "B02R11T02",
+      "bay": 2,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0083",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.93,
+      "slot": "B07R01T02",
+      "bay": 7,
+      "row": 1,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0505",
+      "type": "general",
+      "size": "40ft",
+      "weight": 7.9,
+      "slot": "B07R13T02",
+      "bay": 7,
+      "row": 13,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0005",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.84,
+      "slot": "B02R03T03",
+      "bay": 2,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0196",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.83,
+      "slot": "B02R11T03",
+      "bay": 2,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0374",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.8,
+      "slot": "B07R01T03",
+      "bay": 7,
+      "row": 1,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0609",
+      "type": "general",
+      "size": "40ft",
+      "weight": 7.8,
+      "slot": "B07R13T03",
+      "bay": 7,
+      "row": 13,
+      "tier": 3,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0603",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.72,
+      "slot": "B02R03T04",
+      "bay": 2,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0532",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 7.71,
+      "slot": "B01R03T02",
+      "bay": 1,
+      "row": 3,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0629",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.68,
+      "slot": "B02R11T04",
+      "bay": 2,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0323",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.64,
+      "slot": "B02R03T05",
+      "bay": 2,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0029",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.62,
+      "slot": "B02R11T05",
+      "bay": 2,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0520",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.53,
+      "slot": "B07R01T05",
+      "bay": 7,
+      "row": 1,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0055",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.52,
+      "slot": "B07R13T05",
+      "bay": 7,
+      "row": 13,
+      "tier": 5,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0182",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.52,
+      "slot": "B02R03T06",
+      "bay": 2,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0341",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.5,
+      "slot": "B02R11T06",
+      "bay": 2,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0254",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.49,
+      "slot": "B07R01T06",
+      "bay": 7,
+      "row": 1,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0614",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.48,
+      "slot": "B07R13T06",
+      "bay": 7,
+      "row": 13,
+      "tier": 6,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0617",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.46,
+      "slot": "B02R11T07",
+      "bay": 2,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 18.75,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0556",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.36,
+      "slot": "B07R01T07",
+      "bay": 7,
+      "row": 1,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -63.78,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0039",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.22,
+      "slot": "B07R13T07",
+      "bay": 7,
+      "row": 13,
+      "tier": 7,
+      "position": {
+        "x": 81.25,
+        "y": -34.5,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0183",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 7.21,
+      "slot": "B06R01T06",
+      "bay": 6,
+      "row": 1,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0056",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 7.08,
+      "slot": "B06R13T06",
+      "bay": 6,
+      "row": 13,
+      "tier": 6,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0149",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.03,
+      "slot": "B04R02T02",
+      "bay": 4,
+      "row": 2,
+      "tier": 2,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0014",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.02,
+      "slot": "B04R02T03",
+      "bay": 4,
+      "row": 2,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0285",
+      "type": "general",
+      "size": "20ft",
+      "weight": 7.02,
+      "slot": "B04R12T03",
+      "bay": 4,
+      "row": 12,
+      "tier": 3,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0163",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.87,
+      "slot": "B04R02T04",
+      "bay": 4,
+      "row": 2,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0583",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.8,
+      "slot": "B04R12T04",
+      "bay": 4,
+      "row": 12,
+      "tier": 4,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0557",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.79,
+      "slot": "B04R02T05",
+      "bay": 4,
+      "row": 2,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0112",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.75,
+      "slot": "B04R12T05",
+      "bay": 4,
+      "row": 12,
+      "tier": 5,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0136",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.6,
+      "slot": "B04R02T06",
+      "bay": 4,
+      "row": 2,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0263",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.59,
+      "slot": "B04R12T06",
+      "bay": 4,
+      "row": 12,
+      "tier": 6,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0090",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.52,
+      "slot": "B04R02T07",
+      "bay": 4,
+      "row": 2,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -61.34,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0288",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.52,
+      "slot": "B04R12T07",
+      "bay": 4,
+      "row": 12,
+      "tier": 7,
+      "position": {
+        "x": 43.75,
+        "y": -36.94,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0331",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.52,
+      "slot": "B01R11T02",
+      "bay": 1,
+      "row": 11,
+      "tier": 2,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0425",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.51,
+      "slot": "B06R01T02",
+      "bay": 6,
+      "row": 1,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0185",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.47,
+      "slot": "B06R13T02",
+      "bay": 6,
+      "row": 13,
+      "tier": 2,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0221",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.47,
+      "slot": "B01R03T03",
+      "bay": 1,
+      "row": 3,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0570",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.38,
+      "slot": "B01R11T03",
+      "bay": 1,
+      "row": 11,
+      "tier": 3,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0418",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.33,
+      "slot": "B06R01T03",
+      "bay": 6,
+      "row": 1,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0215",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.3,
+      "slot": "B06R13T03",
+      "bay": 6,
+      "row": 13,
+      "tier": 3,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0463",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.12,
+      "slot": "B01R03T04",
+      "bay": 1,
+      "row": 3,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0382",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.07,
+      "slot": "B01R11T04",
+      "bay": 1,
+      "row": 11,
+      "tier": 4,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0201",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.03,
+      "slot": "B06R01T04",
+      "bay": 6,
+      "row": 1,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0488",
+      "type": "general",
+      "size": "20ft",
+      "weight": 6.03,
+      "slot": "B06R13T04",
+      "bay": 6,
+      "row": 13,
+      "tier": 4,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0441",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.97,
+      "slot": "B01R03T05",
+      "bay": 1,
+      "row": 3,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0353",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.84,
+      "slot": "B01R11T05",
+      "bay": 1,
+      "row": 11,
+      "tier": 5,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0132",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.78,
+      "slot": "B06R01T05",
+      "bay": 6,
+      "row": 1,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0169",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.77,
+      "slot": "B06R13T05",
+      "bay": 6,
+      "row": 13,
+      "tier": 5,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0038",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.75,
+      "slot": "B01R03T06",
+      "bay": 1,
+      "row": 3,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0541",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 5.71,
+      "slot": "B03R02T03",
+      "bay": 3,
+      "row": 2,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0181",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.68,
+      "slot": "B01R11T06",
+      "bay": 1,
+      "row": 11,
+      "tier": 6,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0292",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.57,
+      "slot": "B01R03T07",
+      "bay": 1,
+      "row": 3,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -58.9,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0015",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.56,
+      "slot": "B01R11T07",
+      "bay": 1,
+      "row": 11,
+      "tier": 7,
+      "position": {
+        "x": 6.25,
+        "y": -39.38,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0101",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.46,
+      "slot": "B06R01T07",
+      "bay": 6,
+      "row": 1,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -63.78,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0291",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.44,
+      "slot": "B06R13T07",
+      "bay": 6,
+      "row": 13,
+      "tier": 7,
+      "position": {
+        "x": 68.75,
+        "y": -34.5,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0328",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.39,
+      "slot": "B03R02T02",
+      "bay": 3,
+      "row": 2,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0380",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.38,
+      "slot": "B03R12T02",
+      "bay": 3,
+      "row": 12,
+      "tier": 2,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0298",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.35,
+      "slot": "B03R12T03",
+      "bay": 3,
+      "row": 12,
+      "tier": 3,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0460",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.29,
+      "slot": "B03R02T04",
+      "bay": 3,
+      "row": 2,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0027",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.26,
+      "slot": "B03R12T04",
+      "bay": 3,
+      "row": 12,
+      "tier": 4,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0579",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.16,
+      "slot": "B03R02T05",
+      "bay": 3,
+      "row": 2,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0563",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.11,
+      "slot": "B03R12T05",
+      "bay": 3,
+      "row": 12,
+      "tier": 5,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0087",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.08,
+      "slot": "B03R02T06",
+      "bay": 3,
+      "row": 2,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0567",
+      "type": "general",
+      "size": "20ft",
+      "weight": 5.06,
+      "slot": "B03R12T06",
+      "bay": 3,
+      "row": 12,
+      "tier": 6,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0476",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 5.04,
+      "slot": "B03R12T07",
+      "bay": 3,
+      "row": 12,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -36.94,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0336",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.97,
+      "slot": "B03R02T07",
+      "bay": 3,
+      "row": 2,
+      "tier": 7,
+      "position": {
+        "x": 31.25,
+        "y": -61.34,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0573",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.91,
+      "slot": "B05R01T02",
+      "bay": 5,
+      "row": 1,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0616",
+      "type": "hazmat",
+      "size": "20ft",
+      "weight": 4.88,
+      "slot": "B02R12T03",
+      "bay": 2,
+      "row": 12,
+      "tier": 3,
+      "position": {
+        "x": 18.75,
+        "y": -36.94,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0003",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.86,
+      "slot": "B05R13T02",
+      "bay": 5,
+      "row": 13,
+      "tier": 2,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0430",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.78,
+      "slot": "B05R01T03",
+      "bay": 5,
+      "row": 1,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0588",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.77,
+      "slot": "B05R13T03",
+      "bay": 5,
+      "row": 13,
+      "tier": 3,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 6.47
+      }
+    },
+    {
+      "id": "S001C0528",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.65,
+      "slot": "B05R01T04",
+      "bay": 5,
+      "row": 1,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0487",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.61,
+      "slot": "B05R13T04",
+      "bay": 5,
+      "row": 13,
+      "tier": 4,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 9.06
+      }
+    },
+    {
+      "id": "S001C0477",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.6,
+      "slot": "B05R01T05",
+      "bay": 5,
+      "row": 1,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0600",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.57,
+      "slot": "B05R13T05",
+      "bay": 5,
+      "row": 13,
+      "tier": 5,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 11.65
+      }
+    },
+    {
+      "id": "S001C0047",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.49,
+      "slot": "B05R01T06",
+      "bay": 5,
+      "row": 1,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0045",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.43,
+      "slot": "B05R01T07",
+      "bay": 5,
+      "row": 1,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -63.78,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0346",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.43,
+      "slot": "B05R13T06",
+      "bay": 5,
+      "row": 13,
+      "tier": 6,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 14.24
+      }
+    },
+    {
+      "id": "S001C0154",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.42,
+      "slot": "B05R13T07",
+      "bay": 5,
+      "row": 13,
+      "tier": 7,
+      "position": {
+        "x": 56.25,
+        "y": -34.5,
+        "z": 16.84
+      }
+    },
+    {
+      "id": "S001C0340",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.35,
+      "slot": "B02R02T02",
+      "bay": 2,
+      "row": 2,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -61.34,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0233",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.32,
+      "slot": "B02R12T02",
+      "bay": 2,
+      "row": 12,
+      "tier": 2,
+      "position": {
+        "x": 18.75,
+        "y": -36.94,
+        "z": 3.88
+      }
+    },
+    {
+      "id": "S001C0061",
+      "type": "general",
+      "size": "20ft",
+      "weight": 4.31,
+      "slot": "B07R14T02",
+      "bay": 7,
+      "row": 14,
+      "tier": 2,
+      "position": {
+        "x": 81.25,
+        "y": -32.06,
+        "z": 3.88
+      }
+    }
+  ],
+  "failed_containers": [
+    {
+      "id": "S001C0555",
+      "type": "reefer",
+      "weight": 15.74,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0271",
+      "type": "reefer",
+      "weight": 15.03,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0081",
+      "type": "reefer",
+      "weight": 14.74,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0220",
+      "type": "reefer",
+      "weight": 14.64,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0077",
+      "type": "reefer",
+      "weight": 14.35,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0121",
+      "type": "reefer",
+      "weight": 14.2,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0280",
+      "type": "reefer",
+      "weight": 14.07,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0093",
+      "type": "reefer",
+      "weight": 13.99,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0250",
+      "type": "reefer",
+      "weight": 13.77,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0379",
+      "type": "reefer",
+      "weight": 13.69,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0572",
+      "type": "reefer",
+      "weight": 13.65,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0575",
+      "type": "reefer",
+      "weight": 13.52,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0632",
+      "type": "reefer",
+      "weight": 13.07,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0389",
+      "type": "reefer",
+      "weight": 12.78,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0337",
+      "type": "reefer",
+      "weight": 12.77,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0253",
+      "type": "reefer",
+      "weight": 12.65,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0281",
+      "type": "reefer",
+      "weight": 12.63,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0504",
+      "type": "reefer",
+      "weight": 12.24,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0406",
+      "type": "reefer",
+      "weight": 12.2,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0448",
+      "type": "reefer",
+      "weight": 12.09,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0119",
+      "type": "reefer",
+      "weight": 11.87,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0531",
+      "type": "reefer",
+      "weight": 11.79,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0231",
+      "type": "reefer",
+      "weight": 11.39,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0394",
+      "type": "reefer",
+      "weight": 11.12,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0524",
+      "type": "reefer",
+      "weight": 11.1,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0026",
+      "type": "reefer",
+      "weight": 11.03,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0122",
+      "type": "reefer",
+      "weight": 10.2,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0297",
+      "type": "reefer",
+      "weight": 10.2,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0518",
+      "type": "reefer",
+      "weight": 10.03,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0390",
+      "type": "reefer",
+      "weight": 9.98,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0559",
+      "type": "reefer",
+      "weight": 9.79,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0198",
+      "type": "reefer",
+      "weight": 9.44,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0445",
+      "type": "reefer",
+      "weight": 9.42,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0508",
+      "type": "reefer",
+      "weight": 9.41,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0514",
+      "type": "reefer",
+      "weight": 9.41,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0166",
+      "type": "reefer",
+      "weight": 9.16,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0535",
+      "type": "reefer",
+      "weight": 9.15,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0420",
+      "type": "reefer",
+      "weight": 8.83,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0013",
+      "type": "reefer",
+      "weight": 8.39,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0089",
+      "type": "reefer",
+      "weight": 8.35,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0074",
+      "type": "reefer",
+      "weight": 8.17,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0108",
+      "type": "reefer",
+      "weight": 8.11,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0199",
+      "type": "reefer",
+      "weight": 7.61,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0451",
+      "type": "reefer",
+      "weight": 7.26,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0128",
+      "type": "reefer",
+      "weight": 7.09,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0116",
+      "type": "reefer",
+      "weight": 6.88,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0399",
+      "type": "reefer",
+      "weight": 6.62,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0293",
+      "type": "reefer",
+      "weight": 6.3,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0400",
+      "type": "reefer",
+      "weight": 6.21,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0422",
+      "type": "reefer",
+      "weight": 6.16,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0315",
+      "type": "reefer",
+      "weight": 5.83,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0127",
+      "type": "reefer",
+      "weight": 5.8,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0204",
+      "type": "reefer",
+      "weight": 5.65,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0404",
+      "type": "reefer",
+      "weight": 5.59,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0008",
+      "type": "reefer",
+      "weight": 4.88,
+      "reason": "Constraints not satisfied"
+    },
+    {
+      "id": "S001C0421",
+      "type": "reefer",
+      "weight": 4.56,
+      "reason": "Constraints not satisfied"
+    }
+  ]
+}
