@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "scenario_id": 1,
+  "metrics": {
+    "placement_rate": 91.14,
+    "placed_count": 576,
+    "total_count": 632,
+    "failed_count": 56,
+    "slot_utilization": 83.97,
+    "total_teu": 762,
+    "total_weight": 12032.04,
+    "kg": 7.427,
+    "gm": 1.273,
+    "is_stable": true,
+    "stability_margin": 0.973,
+    "cargo_distribution": {
+      "general": 466,
+      "reefer": 41,
+      "hazmat": 69
+    }
+  },
+  "placed": [
+    {
+      "id": "S001C0001",
+      "type": "general",
+      "size": "20ft",
+      "weight": 15.5,
+      "slot": "B03R07T01",
+      "bay": 3,
+      "row": 7,
+      "tier": 1,
+      "position": {
+        "x": 25.0,
+        "y": 0.0,
+        "z": 1.295
+      }
+    }
+  ],
+  "failed": [
+    {
+      "id": "S001C0623",
+      "type": "reefer",
+      "weight": 22.0,
+      "reason": "No powered slots"
+    }
+  ],
+  "placement_log": []
+}
